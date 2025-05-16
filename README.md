@@ -11,7 +11,7 @@ Projects Section: Showcases completed or ongoing projects.
 ## Setup / Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/Beatrice1911/PLP-Web-Dev-Assignment.git
+    git clone https://github.com/Beatrice1911/PLP-Web-Dev-Assignment.git
 
 2. Open the project folder.
 3. Open the main HTML file (usually index.html) in your web browser.
