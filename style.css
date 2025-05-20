@@ -123,6 +123,7 @@ body {
   width: 55%;
   height: 560px;
   overflow: hidden;
+  padding: 20px;
 }
 
 .welcome-img img,
