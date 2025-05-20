@@ -14,7 +14,7 @@ body {
 .main-container {
   background: url(assets/images/blank-black-corporate-stationery-on-600nw-1051434977.webp)
     no-repeat center center/cover;
-  height: 150vh;
+  height: 100vh;
   margin-bottom: 45px;
 }
 
@@ -122,8 +122,6 @@ body {
 .welcome-img {
   width: 55%;
   height: 560px;
-  overflow: hidden;
-  padding: 20px;
 }
 
 .welcome-img img,
@@ -131,6 +129,7 @@ body {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  overflow: hidden;
 }
 
 .about-section {
